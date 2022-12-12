@@ -9,5 +9,6 @@ export const global = {
 		"Content-Type": "application/json",
 	},
 
-  API_GET_PERMISSIONS: "http://localhost:5000/api/permissions",
+  API_PERMISSIONS: "http://localhost:5000/api/permissions",
+  API_PERMISSION_TYPES: "http://localhost:5000/api/permission-types",
 }
